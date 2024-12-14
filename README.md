@@ -2,7 +2,7 @@
 
 
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Sallankennedys&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=allankennedys&layout=compact&theme=radical)
 
 
 <!--
