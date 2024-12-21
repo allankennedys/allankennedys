@@ -1,5 +1,5 @@
 ## Olá 👋
-Sou desenvolvedor Front-End, atualmente cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Nobre (UNIFAN) com foco em tecnologias como Javascript, HTML, CSS, Bootstrap e Vue.
+Sou desenvolvedor Front-End, atualmente cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Nobre (UNIFAN) com foco em tecnologias como Javascript, HTML, CSS, Bootstrap.
 
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=allankennedys&layout=compact&theme=dark)
