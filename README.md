@@ -1,5 +1,5 @@
 ## Olá 👋
-Sou desenvolvedor Front-End, atualmente cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Nobre (UNIFAN) com foco em tecnologias como Javascript, HTML, CSS, Bootstrap e MySQL.
+Sou desenvolvedor Front-End, atualmente cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Nobre (UNIFAN) com foco em tecnologias como Javascript, HTML, CSS, Bootstrap. Além de conhecimentos em bancos de dados relacionais como MySQL. Estou em constante aprendizado de novas ferramentas e frameworks web para entregar soluções modernas, funcionais e responsivas.
 
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=allankennedys&layout=compact&theme=light)
