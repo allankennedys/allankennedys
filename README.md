@@ -3,7 +3,7 @@
 
 Sou desenvolvedor Front-End, atualmente cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Nobre (UNIFAN) com foco em tecnologias como Javascript, HTML, CSS, Bootstrap., além de possuir familiaridade com linguagens como PHP e C e SQL para bancos de dados relacionais. Estou em constante aprendizado de novas ferramentas e frameworks web para entregar soluções modernas, funcionais e responsivas.
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=allankennedys&data=repositories,commits,followers)](https://github.com/Jurredr/github-widgetbox)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,html,css,c,mysql,powershell,bash&frameworks=react,bootstrap&tools=git,npm,firebase,nodejs&software=linux,windows,vscode)](https://github.com/Jurredr/github-widgetbox)
 
