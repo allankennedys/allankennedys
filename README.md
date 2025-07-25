@@ -2,13 +2,13 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=allankennedys&data=repositories,commits,followers)](https://github.com/Jurredr/github-widgetbox)
 
 <p align="justify">
-  <span style="color:#58A6FF">
+  <span style="color:#666666">
     Sou desenvolvedor <strong>Front-End</strong>, atualmente cursando <strong>Análise e Desenvolvimento de Sistemas</strong> no Centro Universitário Nobre (UNIFAN), com foco em tecnologias como <strong>JavaScript, HTML, CSS</strong> e <strong>Bootstrap</strong>.
   </span>
 </p>
 
 <p align="justify">
-  <span style="color:#C586C0">
+  <span style="color:#666666">
     Possuo familiaridade com linguagens como <strong>PHP</strong>, <strong>C</strong> e <strong>SQL</strong> para bancos de dados relacionais, e estou em constante aprendizado de novas ferramentas e frameworks web para entregar soluções modernas, funcionais e responsivas.
   </span>
 </p>
