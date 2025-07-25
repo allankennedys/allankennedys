@@ -1,5 +1,4 @@
-## Olá 👋
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá!+me+chamo+Allan+Kennedy&font=Fira%20Code¢er=true&width=380&height=50)
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá!+me+chamo+Allan+Kennedy&font=Fira%20Code¢er=true&width=380&height=50)
 
 
 Sou desenvolvedor Front-End, atualmente cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Nobre (UNIFAN) com foco em tecnologias como Javascript, HTML, CSS, Bootstrap., além de possuir familiaridade com bancos de dados relacionais como MySQL. Estou em constante aprendizado de novas ferramentas e frameworks web para entregar soluções modernas, funcionais e responsivas.
