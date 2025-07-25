@@ -1,4 +1,4 @@
-## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Bem+vindo+ao+meu+Github&font=Fira%20Code¢er=true&width=380&height=50)
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Bem+vindo(a)+ao+meu+Github!&font=Fira%20Code¢er=true&width=380&height=50)
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=allankennedys&data=repositories,commits,followers)](https://github.com/Jurredr/github-widgetbox)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,html,css,c,mysql,powershell,bash&frameworks=react,bootstrap&tools=git,npm,firebase,nodejs&software=linux,windows,vscode)](https://github.com/Jurredr/github-widgetbox)
