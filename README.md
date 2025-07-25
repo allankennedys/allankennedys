@@ -10,7 +10,7 @@ Sou desenvolvedor Front-End, atualmente cursando Análise e Desenvolvimento de S
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=allankennedys&layout=compact&theme=light)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,html,css,c,json,mysql,powershell,bash&frameworkds=react,bootstrap&tools=git,npm,firebase,nodejs&software=linux,windows,vscode)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,html,css,c,json,mysql,powershell,bash&frameworks=react,bootstrap&tools=git,npm,firebase,nodejs&software=linux,windows,vscode)](https://github.com/Jurredr/github-widgetbox)
 
 <!--
 **allankennedys/allankennedys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
