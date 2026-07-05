@@ -1,7 +1,7 @@
 ## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Bem+vindo(a)+ao+meu+Github!&font=Fira%20Code¢er=true&width=380&height=50)
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=allankennedys&data=repositories,commits,followers)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,c,mysql,sass&frameeworks=react,express,bootstrap&tools=woocommerce,wordpress,git,npm,nodejs,vercel,json,redis,aws&software=linux,windows,vscode,bash)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,c,mysql,sass&frameworks=react,express,bootstrap&tools=git,npm,nodejs,vercel,json,redis,aws&software=linux,windows,vscode,bash)](https://github.com/Jurredr/github-widgetbox)
 
 <div align= "center">
 <a href="https://www.linkedin.com/in/allankennedys/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
